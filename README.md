@@ -1,5 +1,5 @@
 # Triage-Sim
-Simulation and analysis code for crisis standards of care resource allocation model.
+Simulation and analysis codebooks for estimating lives saved from distinct crisis standards of care protocols.
 
 ### Dependencies
 The analysis programs require Python v3.11, pandas, matplotlib, numpy, scipy, seaborn and statsmodels packages. Conversion of ICD-10 to Elixhauser and Charlson scores requires the comorbidipy package. De-identified data is available upon reasonable request.
